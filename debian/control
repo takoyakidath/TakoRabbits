@@ -1,0 +1,12 @@
+Source: TakoRabbit
+Section: utils
+Priority: optional
+Maintainer: Takoyaki <takoyaki1051@outlook.jp>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 4.1.3
+Homepage: https://takoyaki.pkopko.jp
+
+Package: TakoRabbit
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: This is Takoyaki Rabbit
