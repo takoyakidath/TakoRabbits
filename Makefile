@@ -1,2 +1,2 @@
 all:
-	g++ -o TakoRabbit src/main.cpp
+    g++ -o takorabbit main.cpp
